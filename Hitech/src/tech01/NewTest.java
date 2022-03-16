@@ -20,5 +20,7 @@ public class NewTest {
   @BeforeTest
   public void beforeTest() {
   }
-
+  @BeforeTest
+  public void beforeTest01() {
+  }
 }
